@@ -1,4 +1,4 @@
-# quick_fingers2
+# quick_fingers
 
 A new Flutter project.
 
